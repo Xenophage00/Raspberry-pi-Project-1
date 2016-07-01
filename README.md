@@ -1,6 +1,2 @@
-# Raspberry-pi-Project-1
-!hello
-%hello
-/hello
-,hello
-"hello"
+# Raspberry-Pi-Project 1
+Raspberry-Pi Motor Project MK1
